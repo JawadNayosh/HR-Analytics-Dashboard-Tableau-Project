@@ -60,7 +60,5 @@ Open the .twbx file in Tableau Desktop .
 Interact with filters (Education, Age Bin Slider).
 Explore attrition breakdowns and job satisfaction trends.
 
-## 📩 Contact
-If you'd like to collaborate, request the workbook, or discuss HR analytics ideas:
-🔗 LinkedIn Profile: www.linkedin.com/in/jawad-n-ab02b7365 
+
 
